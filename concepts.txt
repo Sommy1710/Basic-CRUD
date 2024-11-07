@@ -1,0 +1,10 @@
+This is a basic CRUD application that highlights the CRUD operations
+
+- It Creates, Reads, Update and Delete files.
+
+-This project also highlights a basic folder structure.
+
+-It also shows how ive setup my package.json file, as well as my package-lock.json
+
+-I also used the .gitignore file to prevent the contents of node_modules to pe pushed to my github repository.
+ 
